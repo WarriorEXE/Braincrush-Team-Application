@@ -1,0 +1,8 @@
+Terms of Use
+
+By using the Braincrush Team Application, you agree to follow the rules below.
+
+1) Do not overuse the buttons or spam messages. This calls RPCs and wastes server power.
+2) Do not log into other people's accounts. Doing so will result in a week ban from the appliciation, meaning you will miss meetings.
+3) Do not open the application too many times in one minute. This will overload GitHub's api and will result in you, and everybody else not being able to log in or check the version.
+4) Do not say slurs, or be a generally shitty co-worker. fuck you.
